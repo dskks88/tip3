@@ -1,0 +1,6 @@
+{
+  "name": "تایپ‌یار | سامانه آموزش تایپ ده انگشتی فارسی",
+  "description": "پلتفرم جامع و تعاملی آموزش تایپ سریع ده انگشتی فارسی و انگلیسی با راهنمای بصری کیبورد، دروس گام‌به‌گام، آزمون سرعت و تحلیل پیشرفت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
